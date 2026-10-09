@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Homepage 64B"),
+        title: Text("Homepage 64b"),
         backgroundColor: Colors.purple,
         foregroundColor: Colors.white,
         //leading: Icon(Icons.home),
